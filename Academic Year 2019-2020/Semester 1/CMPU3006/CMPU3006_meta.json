@@ -1,0 +1,337 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.69758576874207,
+          181.3027687072754
+        ],
+        [
+          471.27321600914007,
+          181.3027687072754
+        ],
+        [
+          471.27321600914007,
+          202.8353397846222
+        ],
+        [
+          123.69758576874207,
+          202.8353397846222
+        ]
+      ]
+    },
+    {
+      "title": "BSc. (Honours) Degree in Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          110.18775433301926,
+          256.94201761484146
+        ],
+        [
+          497.67745971679693,
+          255.29943948984146
+        ],
+        [
+          497.67745971679693,
+          277.0695146918297
+        ],
+        [
+          110.18775433301926,
+          278.7120928168297
+        ]
+      ]
+    },
+    {
+      "title": "BSc. (Honours) Degree in Computer Science (International)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.96696315120712,
+          284.74681797623634
+        ],
+        [
+          517.4898386001587,
+          284.74681797623634
+        ],
+        [
+          517.4898386001587,
+          304.61360189318657
+        ],
+        [
+          77.96696315120712,
+          304.61360189318657
+        ]
+      ]
+    },
+    {
+      "title": "Client Server Programming",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.41041931385007,
+          409.1455183029175
+        ],
+        [
+          381.9282788038254,
+          409.1455183029175
+        ],
+        [
+          381.9282788038254,
+          424.8848534822464
+        ],
+        [
+          211.41041931385007,
+          424.8848534822464
+        ]
+      ]
+    },
+    {
+      "title": "GET /HTTP/1.1 \\r\\nConnection-closed\\r\\n",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          203.8341810107231,
+          175.21859276294708
+        ],
+        [
+          442.0507190823555,
+          173.57601463794708
+        ],
+        [
+          442.0507190823555,
+          187.80881774425507
+        ],
+        [
+          203.8341810107231,
+          189.45139586925507
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1: A recv() Primitive.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          225.75,
+          571.909982174688
+        ],
+        [
+          367.75754714012146,
+          570.3391366004944
+        ],
+        [
+          366.60325026512146,
+          584.486722946167
+        ],
+        [
+          225.28852227330208,
+          586.129301071167
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          21
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          60
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3006"
+}

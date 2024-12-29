@@ -1,0 +1,197 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DT228 BSc. (Honours) Degree in Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.5,
+          197.93892154097557
+        ],
+        [
+          509.2515678405762,
+          197.93892154097557
+        ],
+        [
+          508.0562553405762,
+          217.3291793167591
+        ],
+        [
+          103.5,
+          217.3291793167591
+        ]
+      ]
+    },
+    {
+      "title": "WINTER EXAMINATIONS 2018/2019",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          184.5,
+          271.91804015636444
+        ],
+        [
+          427.65795636177063,
+          271.91804015636444
+        ],
+        [
+          427.65795636177063,
+          288.49448186159134
+        ],
+        [
+          184.5,
+          288.49448186159134
+        ]
+      ]
+    },
+    {
+      "title": "SOFTWARE ENGINEERING III [CMPU3038]",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          178.5,
+          331.21401330828667
+        ],
+        [
+          434.46931886672974,
+          331.21401330828667
+        ],
+        [
+          434.46931886672974,
+          346.6838213503361
+        ],
+        [
+          178.5,
+          346.6838213503361
+        ]
+      ]
+    },
+    {
+      "title": "ANSWER THREE QUESTIONS OUT OF FOUR.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.20262396335602,
+          555.6279292702675
+        ],
+        [
+          417.00552892684937,
+          555.6279292702675
+        ],
+        [
+          417.00552892684937,
+          569.8553872704506
+        ],
+        [
+          194.20262396335602,
+          569.8553872704506
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3038"
+}

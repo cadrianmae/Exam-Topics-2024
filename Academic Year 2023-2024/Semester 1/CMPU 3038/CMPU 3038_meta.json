@@ -1,0 +1,158 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN \nCITY CAMPUS - GRANGEGORMAN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          135.73983681201935,
+          174.58156150579453
+        ],
+        [
+          484.0,
+          174.58156150579453
+        ],
+        [
+          484.0,
+          210.0
+        ],
+        [
+          135.73983681201935,
+          210.0
+        ]
+      ]
+    },
+    {
+      "title": "TU856 - BSc. (Honours) Degree in Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          110.0,
+          251.24094307422638
+        ],
+        [
+          508.2933897972107,
+          251.24094307422638
+        ],
+        [
+          508.2933897972107,
+          272.0
+        ],
+        [
+          110.0,
+          272.0
+        ]
+      ]
+    },
+    {
+      "title": "Software Engineering III",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          234.36782789230347,
+          418.2423186302185
+        ],
+        [
+          384.97537660598755,
+          418.2423186302185
+        ],
+        [
+          384.97537660598755,
+          433.10613489151
+        ],
+        [
+          234.36782789230347,
+          433.10613489151
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          26
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3038"
+}

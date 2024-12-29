@@ -1,0 +1,135 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN\nCITY CAMPUS - GRANGEGORMAN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.62216603755951,
+          175.66673231124878
+        ],
+        [
+          471.61042976379395,
+          175.66673231124878
+        ],
+        [
+          471.61042976379395,
+          209.72202450037003
+        ],
+        [
+          124.62216603755951,
+          209.72202450037003
+        ]
+      ]
+    },
+    {
+      "title": "Mobile Software Development",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          207.33190083503723,
+          483.0
+        ],
+        [
+          391.5323579311371,
+          483.0
+        ],
+        [
+          391.5323579311371,
+          498.6936124563217
+        ],
+        [
+          207.33190083503723,
+          498.6936124563217
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3026"
+}

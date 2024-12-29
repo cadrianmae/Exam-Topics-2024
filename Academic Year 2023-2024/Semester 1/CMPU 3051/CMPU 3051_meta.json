@@ -1,0 +1,279 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.0,
+          136.4924175441265
+        ],
+        [
+          471.5866639614105,
+          136.4924175441265
+        ],
+        [
+          471.5866639614105,
+          166.05842247605324
+        ],
+        [
+          126.0,
+          166.05842247605324
+        ]
+      ]
+    },
+    {
+      "title": "TU856 - BSc. Degree in Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          140.27896296977997,
+          222.3606195449829
+        ],
+        [
+          459.0,
+          222.3606195449829
+        ],
+        [
+          459.0,
+          241.6040140390396
+        ],
+        [
+          140.27896296977997,
+          241.6040140390396
+        ]
+      ]
+    },
+    {
+      "title": "CMPU3051 Introduction to Artificial Intelligence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          152.0,
+          398.83975571393967
+        ],
+        [
+          445.4281177520752,
+          398.83975571393967
+        ],
+        [
+          445.4281177520752,
+          416.0
+        ],
+        [
+          152.0,
+          416.0
+        ]
+      ]
+    },
+    {
+      "title": "Perceptron Training for logical OR",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.63948953151703,
+          353.7775518298149
+        ],
+        [
+          268.22910511493683,
+          353.7775518298149
+        ],
+        [
+          268.22910511493683,
+          367.948936522007
+        ],
+        [
+          84.63948953151703,
+          367.948936522007
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3051"
+}

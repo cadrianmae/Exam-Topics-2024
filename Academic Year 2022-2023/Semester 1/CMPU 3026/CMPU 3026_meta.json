@@ -1,0 +1,316 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.0,
+          158.39606767892838
+        ],
+        [
+          470.8712387084961,
+          158.39606767892838
+        ],
+        [
+          470.8712387084961,
+          178.20160800218582
+        ],
+        [
+          126.0,
+          178.20160800218582
+        ]
+      ]
+    },
+    {
+      "title": "TU856 BSc Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.9404228925705,
+          233.0
+        ],
+        [
+          411.0035128593445,
+          233.0
+        ],
+        [
+          411.0035128593445,
+          251.0
+        ],
+        [
+          185.9404228925705,
+          251.0
+        ]
+      ]
+    },
+    {
+      "title": "Year 3\n______________",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          256.0,
+          265.80137825012207
+        ],
+        [
+          340.0,
+          265.80137825012207
+        ],
+        [
+          340.0,
+          291.0
+        ],
+        [
+          256.0,
+          291.0
+        ]
+      ]
+    },
+    {
+      "title": "CMPU 3026\nMobile Software Development",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.0,
+          358.6803808808327
+        ],
+        [
+          385.2660369873047,
+          358.6803808808327
+        ],
+        [
+          385.2660369873047,
+          389.57797533273697
+        ],
+        [
+          211.0,
+          389.57797533273697
+        ]
+      ]
+    },
+    {
+      "title": "Example 1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          116.4615969657898,
+          517.0
+        ],
+        [
+          173.21914660930634,
+          517.0
+        ],
+        [
+          173.21914660930634,
+          530.9803359508514
+        ],
+        [
+          116.4615969657898,
+          530.9803359508514
+        ]
+      ]
+    },
+    {
+      "title": "Example 2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          117.0,
+          578.7978624105453
+        ],
+        [
+          172.86186027526855,
+          578.7978624105453
+        ],
+        [
+          171.69779777526855,
+          592.0
+        ],
+        [
+          115.90199047327042,
+          592.0
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2 Inserting Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          264.5658677816391,
+          704.3285742998123
+        ],
+        [
+          387.1653473377228,
+          704.3285742998123
+        ],
+        [
+          387.1653473377228,
+          717.399405837059
+        ],
+        [
+          264.5658677816391,
+          717.399405837059
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3026"
+}

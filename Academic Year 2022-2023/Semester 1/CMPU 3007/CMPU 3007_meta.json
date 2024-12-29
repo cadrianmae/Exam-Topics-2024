@@ -1,0 +1,158 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.0,
+          98.844976618886
+        ],
+        [
+          473.10977125167847,
+          98.844976618886
+        ],
+        [
+          471.94570875167847,
+          119.47521036863327
+        ],
+        [
+          124.9462548494339,
+          119.47521036863327
+        ]
+      ]
+    },
+    {
+      "title": "Programme Code: TU856 (DT228), \n TU857 (DT211C)\n Module Code: CMPU 3007",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.0,
+          35.061920166015625
+        ],
+        [
+          526.702401638031,
+          35.061920166015625
+        ],
+        [
+          525.538339138031,
+          78.61532384157181
+        ],
+        [
+          314.0,
+          78.61532384157181
+        ]
+      ]
+    },
+    {
+      "title": "Programme Code: TU856 (DT228), \n TU857 (DT211C)\n Module Code: CMPU 3007",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.0,
+          36.52782294154167
+        ],
+        [
+          526.5570359230042,
+          36.52782294154167
+        ],
+        [
+          525.3929734230042,
+          77.0
+        ],
+        [
+          314.0,
+          77.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3007"
+}

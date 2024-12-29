@@ -1,0 +1,177 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.75,
+          160.5
+        ],
+        [
+          469.64403212070465,
+          160.5
+        ],
+        [
+          468.50145399570465,
+          183.5395646095276
+        ],
+        [
+          123.75,
+          183.5395646095276
+        ]
+      ]
+    },
+    {
+      "title": "BSc. (Honours) Degree in Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          132.75,
+          239.25
+        ],
+        [
+          460.1113432645798,
+          239.25
+        ],
+        [
+          460.1113432645798,
+          258.7242043018341
+        ],
+        [
+          132.75,
+          258.7242043018341
+        ]
+      ]
+    },
+    {
+      "title": "SEMESTER 1 EXAMINATIONS 2019/20",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          190.5,
+          305.1487898826599
+        ],
+        [
+          401.69396817684174,
+          305.1487898826599
+        ],
+        [
+          400.55139005184174,
+          319.76205825805664
+        ],
+        [
+          190.47734141349792,
+          319.76205825805664
+        ]
+      ]
+    },
+    {
+      "title": "Software Engineering 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          224.25,
+          360.8517587184906
+        ],
+        [
+          368.2978266477585,
+          360.8517587184906
+        ],
+        [
+          368.2978266477585,
+          376.95284485816956
+        ],
+        [
+          224.25,
+          376.95284485816956
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3038"
+}

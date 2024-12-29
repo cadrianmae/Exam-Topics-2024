@@ -1,0 +1,169 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.42857599258423,
+          112.38453695178032
+        ],
+        [
+          472.06919145584106,
+          112.38453695178032
+        ],
+        [
+          472.06919145584106,
+          131.72112891077995
+        ],
+        [
+          124.42857599258423,
+          131.72112891077995
+        ]
+      ]
+    },
+    {
+      "title": "CMPU 3007 Cloud Computing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          207.65170896053314,
+          355.0
+        ],
+        [
+          388.5683822631836,
+          355.0
+        ],
+        [
+          388.5683822631836,
+          370.2644945383072
+        ],
+        [
+          207.65170896053314,
+          370.2644945383072
+        ]
+      ]
+    },
+    {
+      "title": "Programme Code: TU856 (DT228), \n TU857 (DT211C), \n TU858 (DT282)\n Module Code: CMPU 3007",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.0,
+          36.90112094581127
+        ],
+        [
+          526.3327350616455,
+          36.90112094581127
+        ],
+        [
+          525.1686725616455,
+          90.0
+        ],
+        [
+          314.0,
+          90.0
+        ]
+      ]
+    },
+    {
+      "title": "Programme Code: TU856 (DT228), \n TU857 (DT211C), \n TU858 (DT282)\n Module Code: CMPU 3007",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.0,
+          37.0
+        ],
+        [
+          525.9767808914185,
+          37.0
+        ],
+        [
+          524.8127183914185,
+          90.0
+        ],
+        [
+          314.0,
+          90.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3007"
+}

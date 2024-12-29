@@ -1,0 +1,185 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DUBLIN INSTITUTE OF TECHNOLOGY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          209.25,
+          185.69631081819534
+        ],
+        [
+          420.14461040496826,
+          185.69631081819534
+        ],
+        [
+          420.14461040496826,
+          199.50134605169296
+        ],
+        [
+          209.25,
+          199.50134605169296
+        ]
+      ]
+    },
+    {
+      "title": "DT228 BSc. (Honours) Degree in Computer Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.5,
+          228.89441084861755
+        ],
+        [
+          517.9279432296753,
+          228.89441084861755
+        ],
+        [
+          517.9279432296753,
+          248.15167021751404
+        ],
+        [
+          112.5,
+          248.15167021751404
+        ]
+      ]
+    },
+    {
+      "title": "WINTER EXAMINATIONS 2018/2019",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.25,
+          301.5638020038605
+        ],
+        [
+          436.20939445495605,
+          301.5638020038605
+        ],
+        [
+          436.20939445495605,
+          317.06216696269985
+        ],
+        [
+          194.25,
+          317.06216696269985
+        ]
+      ]
+    },
+    {
+      "title": "CLOUD COMPUTING [CMPU3007]",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.25,
+          347.044404973357
+        ],
+        [
+          411.6073987483978,
+          347.044404973357
+        ],
+        [
+          411.6073987483978,
+          361.6844325065613
+        ],
+        [
+          218.25,
+          361.6844325065613
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3007 B"
+}

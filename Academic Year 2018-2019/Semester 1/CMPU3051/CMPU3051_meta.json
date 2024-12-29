@@ -1,0 +1,298 @@
+{
+  "table_of_contents": [
+    {
+      "title": "WINTER EXAMINATIONS 2018/2019",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          186.0,
+          275.05245903134346
+        ],
+        [
+          429.9708466529846,
+          275.05245903134346
+        ],
+        [
+          429.9708466529846,
+          292.8375478684902
+        ],
+        [
+          186.0,
+          292.8375478684902
+        ]
+      ]
+    },
+    {
+      "title": "Financial Advisor Knowledge\n1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          98.25,
+          71.20766488413547
+        ],
+        [
+          292.2537603378296,
+          69.66394364088774
+        ],
+        [
+          292.2537603378296,
+          82.7324351593852
+        ],
+        [
+          98.25,
+          84.3750132843852
+        ]
+      ]
+    },
+    {
+      "title": "Perceptron Training for logical OR",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          87.0,
+          336.20277839899063
+        ],
+        [
+          274.6576645374298,
+          336.20277839899063
+        ],
+        [
+          274.6576645374298,
+          350.36422604322433
+        ],
+        [
+          87.0,
+          350.36422604322433
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          76
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3051"
+}

@@ -1,0 +1,276 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          125.89312977099237,
+          165.65151515151516
+        ],
+        [
+          473.1222982406616,
+          164.7082708030939
+        ],
+        [
+          473.1222982406616,
+          190.2010151296854
+        ],
+        [
+          125.89312977099237,
+          191.8435932546854
+        ]
+      ]
+    },
+    {
+      "title": "Mobile Software Development",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.82442748091603,
+          364.97323498129845
+        ],
+        [
+          392.263894200325,
+          364.97323498129845
+        ],
+        [
+          392.263894200325,
+          380.2274361550808
+        ],
+        [
+          206.82442748091603,
+          380.2274361550808
+        ]
+      ]
+    },
+    {
+      "title": "INSTRUCTIONS TO CANDIDATES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          221.010302901268,
+          532.3386270403862
+        ],
+        [
+          378.53005290031433,
+          532.3386270403862
+        ],
+        [
+          378.53005290031433,
+          546.1160718798637
+        ],
+        [
+          221.010302901268,
+          546.1160718798637
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1 Code snippet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          283.05617621541023,
+          741.0
+        ],
+        [
+          401.65103781223297,
+          740.33358335495
+        ],
+        [
+          400.46158468723297,
+          752.9303669929504
+        ],
+        [
+          281.86672309041023,
+          754.5709919929504
+        ]
+      ]
+    },
+    {
+      "title": "Q1 Continued",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          123.75,
+          74.19076055288315
+        ],
+        [
+          195.81583705544472,
+          74.19076055288315
+        ],
+        [
+          195.81583705544472,
+          86.97330862283707
+        ],
+        [
+          123.75,
+          86.97330862283707
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3026"
+}

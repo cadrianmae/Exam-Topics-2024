@@ -1,0 +1,275 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN\nKEVIN STREET CAMPUS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.39772832393646,
+          149.20554066130475
+        ],
+        [
+          470.14900255203247,
+          149.20554066130475
+        ],
+        [
+          470.14900255203247,
+          182.19571045576407
+        ],
+        [
+          123.39772832393646,
+          182.19571045576407
+        ]
+      ]
+    },
+    {
+      "title": "Introduction to Artificial Intelligence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.9220945083014,
+          350.89544235924933
+        ],
+        [
+          409.01939195394516,
+          350.89544235924933
+        ],
+        [
+          409.01939195394516,
+          365.8631010055542
+        ],
+        [
+          182.9220945083014,
+          365.8631010055542
+        ]
+      ]
+    },
+    {
+      "title": "1\nFinancial Advisor Knowledge",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          102.70776818742294,
+          75.75
+        ],
+        [
+          294.77252197265625,
+          75.13945966959
+        ],
+        [
+          294.77252197265625,
+          87.60172337293625
+        ],
+        [
+          102.70776818742294,
+          89.24234837293625
+        ]
+      ]
+    },
+    {
+      "title": "Perceptron Training for logical OR",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          81.75,
+          356.8558144569397
+        ],
+        [
+          267.54636284708977,
+          356.8558144569397
+        ],
+        [
+          267.54636284708977,
+          370.47518491744995
+        ],
+        [
+          81.75,
+          370.47518491744995
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          21
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          76
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          29
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU3051"
+}

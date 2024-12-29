@@ -1,0 +1,273 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TECHNOLOGICAL UNIVERSITY DUBLIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          135.26084399223328,
+          162.2869238257408
+        ],
+        [
+          480.9701416492462,
+          162.2869238257408
+        ],
+        [
+          480.9701416492462,
+          183.6398582458496
+        ],
+        [
+          135.26084399223328,
+          183.6398582458496
+        ]
+      ]
+    },
+    {
+      "title": "CMPU 3038 Software Engineering 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.8184723854065,
+          367.9525249004364
+        ],
+        [
+          416.25031995773315,
+          367.9525249004364
+        ],
+        [
+          416.25031995773315,
+          385.0
+        ],
+        [
+          200.8184723854065,
+          385.0
+        ]
+      ]
+    },
+    {
+      "title": "Special Instructions /Handouts/ Materials Required:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.88884341716766,
+          631.8593899011612
+        ],
+        [
+          406.0925531387329,
+          631.8593899011612
+        ],
+        [
+          406.0925531387329,
+          647.5346313714981
+        ],
+        [
+          88.88884341716766,
+          647.5346313714981
+        ]
+      ]
+    },
+    {
+      "title": "Q.2 (a)Within the context of object-oriented structural design, define the term Interface.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.92111682891846,
+          99.0
+        ],
+        [
+          514.8014895915985,
+          99.0
+        ],
+        [
+          514.8014895915985,
+          112.60239920020103
+        ],
+        [
+          75.92111682891846,
+          112.60239920020103
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\CMPU 3038"
+}
